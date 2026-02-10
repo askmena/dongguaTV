@@ -8,5 +8,5 @@ services:
     - "3000:3000"
     environment:
     #- PORT=3000
-    - TMDB_API_KEY=key
+    - TMDB_API_KEY=29c77d08ccf149f78deab9621898bb4c
     - ADMIN_PASSWORD=admin
